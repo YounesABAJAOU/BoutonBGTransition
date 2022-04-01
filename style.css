@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+    transition: 7s;
+    background-color: black;
+}
+.mystyle{
+    background-color: white;
+}
